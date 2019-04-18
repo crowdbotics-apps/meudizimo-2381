@@ -1,0 +1,3 @@
+rootProject.name = 'meudizimo_2381'
+
+include ':app'
